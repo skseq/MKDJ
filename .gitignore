@@ -1,0 +1,9 @@
+.DS_Store
+build/
+MKDJ.app/
+*.wav
+*.mp3
+*.aiff
+*.aif
+*.flac
+*.m4a

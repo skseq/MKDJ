@@ -1,0 +1,1 @@
+7.1.1 minimal LGPL build (ogg/opus/flac/mp3/wma/aac/amr decode + swresample)
